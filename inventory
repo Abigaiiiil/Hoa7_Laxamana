@@ -6,6 +6,8 @@ Laxamana@192.168.56.110
 192.168.56.104
 Laxamana@192.168.56.110
 
-[file_server]
+[file_servers]
 192.168.56.104
 
+[workstations]
+192.168.56.103
